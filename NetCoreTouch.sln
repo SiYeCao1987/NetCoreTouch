@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebComponent", "WebComponent", "{B3982F03-2498-4860-942B-302464AD2CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.Core", "WebComponent\RabbitMq.Core\RabbitMq.Core.csproj", "{2510544C-F3CE-447E-A334-7883ED983811}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2510544C-F3CE-447E-A334-7883ED983811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2510544C-F3CE-447E-A334-7883ED983811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2510544C-F3CE-447E-A334-7883ED983811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2510544C-F3CE-447E-A334-7883ED983811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2510544C-F3CE-447E-A334-7883ED983811} = {B3982F03-2498-4860-942B-302464AD2CA0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {926B83E8-F708-443B-9384-3BC21EEF0044}
