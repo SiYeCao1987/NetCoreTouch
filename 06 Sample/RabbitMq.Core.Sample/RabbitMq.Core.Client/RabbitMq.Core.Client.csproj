@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Component\Touch.Utils\Touch.Utils.csproj" />
-    <ProjectReference Include="..\..\..\WebComponent\RabbitMq.Core\RabbitMq.Core.csproj" />
+    <ProjectReference Include="..\..\..\01 Component\Touch.Utils\Touch.Utils.csproj" />
+    <ProjectReference Include="..\..\..\02 WebComponent\RabbitMq.Core\RabbitMq.Core.csproj" />
   </ItemGroup>
 
 </Project>

@@ -12491,8 +12491,8 @@
     },
     "Autofac.Core/1.0.0": {
       "type": "project",
-      "path": "../../../WebComponent/Autofac.Core/Autofac.Core.csproj",
-      "msbuildProject": "../../../WebComponent/Autofac.Core/Autofac.Core.csproj"
+      "path": "../../../02 WebComponent/Autofac.Core/Autofac.Core.csproj",
+      "msbuildProject": "../../../02 WebComponent/Autofac.Core/Autofac.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12512,11 +12512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreTouch\\Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\Autofac.Core.Sample.WebApi.csproj",
+      "projectUniqueName": "E:\\NetCoreTouch\\06 Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\Autofac.Core.Sample.WebApi.csproj",
       "projectName": "Autofac.Core.Sample.WebApi",
-      "projectPath": "E:\\NetCoreTouch\\Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\Autofac.Core.Sample.WebApi.csproj",
+      "projectPath": "E:\\NetCoreTouch\\06 Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\Autofac.Core.Sample.WebApi.csproj",
       "packagesPath": "C:\\Users\\syc\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreTouch\\Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\obj\\",
+      "outputPath": "E:\\NetCoreTouch\\06 Sample\\Autofac.Core.Sample\\Autofac.Core.Sample.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12535,8 +12535,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\NetCoreTouch\\WebComponent\\Autofac.Core\\Autofac.Core.csproj": {
-              "projectPath": "E:\\NetCoreTouch\\WebComponent\\Autofac.Core\\Autofac.Core.csproj"
+            "E:\\NetCoreTouch\\02 WebComponent\\Autofac.Core\\Autofac.Core.csproj": {
+              "projectPath": "E:\\NetCoreTouch\\02 WebComponent\\Autofac.Core\\Autofac.Core.csproj"
             }
           }
         }

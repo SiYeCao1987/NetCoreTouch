@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj",
+      "projectUniqueName": "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj",
       "projectName": "Touch.Utils",
-      "projectPath": "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj",
+      "projectPath": "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj",
       "packagesPath": "C:\\Users\\syc\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreTouch\\Component\\Touch.Utils\\obj\\",
+      "outputPath": "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

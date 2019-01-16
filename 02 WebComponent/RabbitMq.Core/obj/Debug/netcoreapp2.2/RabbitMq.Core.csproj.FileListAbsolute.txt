@@ -16,3 +16,15 @@ E:\NetCoreTouch\WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\Autofac.xml
 E:\NetCoreTouch\WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\Autofac.Integration.WebApi.pdb
 E:\NetCoreTouch\WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\Autofac.Integration.WebApi.xml
 E:\NetCoreTouch\WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.csproj.CopyComplete
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\RabbitMq.Core.deps.json
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\RabbitMq.Core.dll
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\RabbitMq.Core.pdb
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\Touch.Utils.dll
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\bin\Debug\netcoreapp2.2\Touch.Utils.pdb
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.csprojAssemblyReference.cache
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.AssemblyInfoInputs.cache
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.AssemblyInfo.cs
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.csproj.CopyComplete
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.dll
+E:\NetCoreTouch\02 WebComponent\RabbitMq.Core\obj\Debug\netcoreapp2.2\RabbitMq.Core.pdb

@@ -4303,8 +4303,8 @@
     },
     "Touch.Utils/1.0.0": {
       "type": "project",
-      "path": "../../Component/Touch.Utils/Touch.Utils.csproj",
-      "msbuildProject": "../../Component/Touch.Utils/Touch.Utils.csproj"
+      "path": "../../01 Component/Touch.Utils/Touch.Utils.csproj",
+      "msbuildProject": "../../01 Component/Touch.Utils/Touch.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4321,11 +4321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreTouch\\WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj",
+      "projectUniqueName": "E:\\NetCoreTouch\\02 WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj",
       "projectName": "RabbitMq.Core",
-      "projectPath": "E:\\NetCoreTouch\\WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj",
+      "projectPath": "E:\\NetCoreTouch\\02 WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj",
       "packagesPath": "C:\\Users\\syc\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreTouch\\WebComponent\\RabbitMq.Core\\obj\\",
+      "outputPath": "E:\\NetCoreTouch\\02 WebComponent\\RabbitMq.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4344,8 +4344,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj": {
-              "projectPath": "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj"
+            "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj": {
+              "projectPath": "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj"
             }
           }
         }

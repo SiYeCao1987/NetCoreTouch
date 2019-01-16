@@ -6,3 +6,11 @@ E:\NetCoreTouch\WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.A
 E:\NetCoreTouch\WebComponent\Autofac.Core\bin\Debug\netcoreapp2.2\Autofac.Core.pdb
 E:\NetCoreTouch\WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.dll
 E:\NetCoreTouch\WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.pdb
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\bin\Debug\netcoreapp2.2\Autofac.Core.deps.json
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\bin\Debug\netcoreapp2.2\Autofac.Core.dll
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\bin\Debug\netcoreapp2.2\Autofac.Core.pdb
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.AssemblyInfoInputs.cache
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.AssemblyInfo.cs
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.dll
+E:\NetCoreTouch\02 WebComponent\Autofac.Core\obj\Debug\netcoreapp2.2\Autofac.Core.pdb

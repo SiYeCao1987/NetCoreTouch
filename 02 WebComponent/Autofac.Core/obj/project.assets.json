@@ -4189,11 +4189,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreTouch\\WebComponent\\Autofac.Core\\Autofac.Core.csproj",
+      "projectUniqueName": "E:\\NetCoreTouch\\02 WebComponent\\Autofac.Core\\Autofac.Core.csproj",
       "projectName": "Autofac.Core",
-      "projectPath": "E:\\NetCoreTouch\\WebComponent\\Autofac.Core\\Autofac.Core.csproj",
+      "projectPath": "E:\\NetCoreTouch\\02 WebComponent\\Autofac.Core\\Autofac.Core.csproj",
       "packagesPath": "C:\\Users\\syc\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreTouch\\WebComponent\\Autofac.Core\\obj\\",
+      "outputPath": "E:\\NetCoreTouch\\02 WebComponent\\Autofac.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

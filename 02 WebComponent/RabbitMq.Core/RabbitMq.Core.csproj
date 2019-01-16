@@ -9,13 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Component\Touch.Utils\Touch.Utils.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="Autofac.Core">
-      <HintPath>F:\Study\AutofacWebApiStudy\bin\Autofac.Core.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\..\01 Component\Touch.Utils\Touch.Utils.csproj" />
   </ItemGroup>
 
 </Project>

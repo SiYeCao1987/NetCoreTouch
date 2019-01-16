@@ -6,3 +6,11 @@ E:\NetCoreTouch\Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.Assemb
 E:\NetCoreTouch\Component\Touch.Utils\bin\Debug\netcoreapp2.2\Touch.Utils.pdb
 E:\NetCoreTouch\Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.dll
 E:\NetCoreTouch\Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.pdb
+E:\NetCoreTouch\01 Component\Touch.Utils\bin\Debug\netcoreapp2.2\Touch.Utils.deps.json
+E:\NetCoreTouch\01 Component\Touch.Utils\bin\Debug\netcoreapp2.2\Touch.Utils.dll
+E:\NetCoreTouch\01 Component\Touch.Utils\bin\Debug\netcoreapp2.2\Touch.Utils.pdb
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.AssemblyInfoInputs.cache
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.AssemblyInfo.cs
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.dll
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.pdb

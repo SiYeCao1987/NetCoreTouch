@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\WebComponent\Autofac.Core\Autofac.Core.csproj" />
+    <ProjectReference Include="..\..\..\02 WebComponent\Autofac.Core\Autofac.Core.csproj" />
   </ItemGroup>
 
 </Project>

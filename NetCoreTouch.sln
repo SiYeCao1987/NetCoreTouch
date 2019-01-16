@@ -5,25 +5,25 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 WebComponent", "02 WebComponent", "{B3982F03-2498-4860-942B-302464AD2CA0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core", "WebComponent\RabbitMq.Core\RabbitMq.Core.csproj", "{2510544C-F3CE-447E-A334-7883ED983811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core", "02 WebComponent\RabbitMq.Core\RabbitMq.Core.csproj", "{2510544C-F3CE-447E-A334-7883ED983811}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Component", "01 Component", "{EE33E84B-9ED3-49CF-A02D-6CF0D07B9B9C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Touch.Utils", "Component\Touch.Utils\Touch.Utils.csproj", "{23C7B7A1-8E1C-425A-B96C-E0F789FA2465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Touch.Utils", "01 Component\Touch.Utils\Touch.Utils.csproj", "{23C7B7A1-8E1C-425A-B96C-E0F789FA2465}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Sample", "06 Sample", "{05F7406C-A772-426B-95CB-C3ED7DD528EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMq.Core.Sample", "RabbitMq.Core.Sample", "{F53B6277-6264-468F-8F69-FE041F573695}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core.Client", "Sample\RabbitMq.Core.Sample\RabbitMq.Core.Client\RabbitMq.Core.Client.csproj", "{5F168672-7CF0-41F4-BF6C-8993ACB8DE01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core.Client", "06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Client\RabbitMq.Core.Client.csproj", "{5F168672-7CF0-41F4-BF6C-8993ACB8DE01}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core.Buniess", "Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\RabbitMq.Core.Buniess.csproj", "{9F972042-73EC-4034-BCB1-F8CDE4FE50E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq.Core.Buniess", "06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\RabbitMq.Core.Buniess.csproj", "{9F972042-73EC-4034-BCB1-F8CDE4FE50E1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofac.Core", "WebComponent\Autofac.Core\Autofac.Core.csproj", "{D7CBE7F6-13A7-4085-806B-37BAE880D9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofac.Core", "02 WebComponent\Autofac.Core\Autofac.Core.csproj", "{D7CBE7F6-13A7-4085-806B-37BAE880D9C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autofac.Core.Sample", "Autofac.Core.Sample", "{0556B092-FC1E-4F29-8D14-FCF25F4CA9D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofac.Core.Sample.WebApi", "Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\Autofac.Core.Sample.WebApi.csproj", "{A0DF0C28-BA5A-4A47-842E-9B8413558D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofac.Core.Sample.WebApi", "06 Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\Autofac.Core.Sample.WebApi.csproj", "{A0DF0C28-BA5A-4A47-842E-9B8413558D36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

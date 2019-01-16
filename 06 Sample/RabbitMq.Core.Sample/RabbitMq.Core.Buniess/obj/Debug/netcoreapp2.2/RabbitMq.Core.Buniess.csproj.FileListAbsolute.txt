@@ -14,3 +14,19 @@ E:\NetCoreTouch\Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netc
 E:\NetCoreTouch\Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.pdb
 E:\NetCoreTouch\Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.dll
 E:\NetCoreTouch\Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.pdb
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.deps.json
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.runtimeconfig.json
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.runtimeconfig.dev.json
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.dll
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.pdb
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.dll
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\Touch.Utils.dll
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\Touch.Utils.pdb
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\bin\Debug\netcoreapp2.2\RabbitMq.Core.pdb
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.csprojAssemblyReference.cache
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.AssemblyInfoInputs.cache
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.AssemblyInfo.cs
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.csproj.CopyComplete
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.dll
+E:\NetCoreTouch\06 Sample\RabbitMq.Core.Sample\RabbitMq.Core.Buniess\obj\Debug\netcoreapp2.2\RabbitMq.Core.Buniess.pdb

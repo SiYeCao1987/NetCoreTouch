@@ -4317,13 +4317,13 @@
     },
     "RabbitMq.Core/1.0.0": {
       "type": "project",
-      "path": "../../../WebComponent/RabbitMq.Core/RabbitMq.Core.csproj",
-      "msbuildProject": "../../../WebComponent/RabbitMq.Core/RabbitMq.Core.csproj"
+      "path": "../../../02 WebComponent/RabbitMq.Core/RabbitMq.Core.csproj",
+      "msbuildProject": "../../../02 WebComponent/RabbitMq.Core/RabbitMq.Core.csproj"
     },
     "Touch.Utils/1.0.0": {
       "type": "project",
-      "path": "../../../Component/Touch.Utils/Touch.Utils.csproj",
-      "msbuildProject": "../../../Component/Touch.Utils/Touch.Utils.csproj"
+      "path": "../../../01 Component/Touch.Utils/Touch.Utils.csproj",
+      "msbuildProject": "../../../01 Component/Touch.Utils/Touch.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4342,11 +4342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NetCoreTouch\\Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\RabbitMq.Core.Client.csproj",
+      "projectUniqueName": "E:\\NetCoreTouch\\06 Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\RabbitMq.Core.Client.csproj",
       "projectName": "RabbitMq.Core.Client",
-      "projectPath": "E:\\NetCoreTouch\\Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\RabbitMq.Core.Client.csproj",
+      "projectPath": "E:\\NetCoreTouch\\06 Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\RabbitMq.Core.Client.csproj",
       "packagesPath": "C:\\Users\\syc\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCoreTouch\\Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\obj\\",
+      "outputPath": "E:\\NetCoreTouch\\06 Sample\\RabbitMq.Core.Sample\\RabbitMq.Core.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4365,11 +4365,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj": {
-              "projectPath": "E:\\NetCoreTouch\\Component\\Touch.Utils\\Touch.Utils.csproj"
+            "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj": {
+              "projectPath": "E:\\NetCoreTouch\\01 Component\\Touch.Utils\\Touch.Utils.csproj"
             },
-            "E:\\NetCoreTouch\\WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj": {
-              "projectPath": "E:\\NetCoreTouch\\WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj"
+            "E:\\NetCoreTouch\\02 WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj": {
+              "projectPath": "E:\\NetCoreTouch\\02 WebComponent\\RabbitMq.Core\\RabbitMq.Core.csproj"
             }
           }
         }
