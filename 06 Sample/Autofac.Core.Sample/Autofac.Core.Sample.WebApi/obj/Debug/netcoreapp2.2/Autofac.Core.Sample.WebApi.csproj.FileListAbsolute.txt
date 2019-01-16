@@ -1,0 +1,17 @@
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.deps.json
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.runtimeconfig.json
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.runtimeconfig.dev.json
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.dll
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.pdb
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.csprojAssemblyReference.cache
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.RazorAssemblyInfo.cache
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.RazorAssemblyInfo.cs
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.AssemblyInfoInputs.cache
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.AssemblyInfo.cs
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.RazorTargetAssemblyInfo.cache
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.dll
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.pdb
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.dll
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\bin\Debug\netcoreapp2.2\Autofac.Core.pdb
+E:\NetCoreTouch\Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\obj\Debug\netcoreapp2.2\Autofac.Core.Sample.WebApi.csproj.CopyComplete
