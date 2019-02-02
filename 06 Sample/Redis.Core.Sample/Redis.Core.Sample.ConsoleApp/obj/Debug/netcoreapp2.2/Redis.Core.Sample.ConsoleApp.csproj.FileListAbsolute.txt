@@ -1,0 +1,14 @@
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.deps.json
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.runtimeconfig.json
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.runtimeconfig.dev.json
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.dll
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.AssemblyInfoInputs.cache
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.AssemblyInfo.cs
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.pdb
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.dll
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\bin\Debug\netcoreapp2.2\Redis.Core.pdb
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.csprojAssemblyReference.cache
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.csproj.CopyComplete
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.dll
+E:\NetCoreTouch\06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\obj\Debug\netcoreapp2.2\Redis.Core.Sample.ConsoleApp.pdb

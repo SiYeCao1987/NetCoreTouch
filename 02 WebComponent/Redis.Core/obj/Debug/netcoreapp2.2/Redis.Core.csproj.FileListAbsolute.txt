@@ -1,0 +1,9 @@
+E:\NetCoreTouch\02 WebComponent\Redis.Core\bin\Debug\netcoreapp2.2\Redis.Core.deps.json
+E:\NetCoreTouch\02 WebComponent\Redis.Core\bin\Debug\netcoreapp2.2\Redis.Core.dll
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.csproj.CoreCompileInputs.cache
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.AssemblyInfoInputs.cache
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.AssemblyInfo.cs
+E:\NetCoreTouch\02 WebComponent\Redis.Core\bin\Debug\netcoreapp2.2\Redis.Core.pdb
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.dll
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.pdb
+E:\NetCoreTouch\02 WebComponent\Redis.Core\obj\Debug\netcoreapp2.2\Redis.Core.csprojAssemblyReference.cache

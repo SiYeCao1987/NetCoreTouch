@@ -25,6 +25,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autofac.Core.Sample", "Auto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofac.Core.Sample.WebApi", "06 Sample\Autofac.Core.Sample\Autofac.Core.Sample.WebApi\Autofac.Core.Sample.WebApi.csproj", "{A0DF0C28-BA5A-4A47-842E-9B8413558D36}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redis.Core", "02 WebComponent\Redis.Core\Redis.Core.csproj", "{D9799AEE-78CC-4017-858D-D8355B75187B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis.Core.Sample", "Redis.Core.Sample", "{AA30F3DF-5218-4BF6-B042-7EC3E6570368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redis.Core.Sample.ConsoleApp", "06 Sample\Redis.Core.Sample\Redis.Core.Sample.ConsoleApp\Redis.Core.Sample.ConsoleApp.csproj", "{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 WebApi", "05 WebApi", "{909F7BD1-AF81-45E2-A1AE-0BCAB0118440}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +63,14 @@ Global
 		{A0DF0C28-BA5A-4A47-842E-9B8413558D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0DF0C28-BA5A-4A47-842E-9B8413558D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0DF0C28-BA5A-4A47-842E-9B8413558D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9799AEE-78CC-4017-858D-D8355B75187B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9799AEE-78CC-4017-858D-D8355B75187B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9799AEE-78CC-4017-858D-D8355B75187B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9799AEE-78CC-4017-858D-D8355B75187B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +84,9 @@ Global
 		{D7CBE7F6-13A7-4085-806B-37BAE880D9C7} = {B3982F03-2498-4860-942B-302464AD2CA0}
 		{0556B092-FC1E-4F29-8D14-FCF25F4CA9D2} = {05F7406C-A772-426B-95CB-C3ED7DD528EF}
 		{A0DF0C28-BA5A-4A47-842E-9B8413558D36} = {0556B092-FC1E-4F29-8D14-FCF25F4CA9D2}
+		{D9799AEE-78CC-4017-858D-D8355B75187B} = {B3982F03-2498-4860-942B-302464AD2CA0}
+		{AA30F3DF-5218-4BF6-B042-7EC3E6570368} = {05F7406C-A772-426B-95CB-C3ED7DD528EF}
+		{7B3BF4A8-E4CF-4EDD-BD26-924D532BBBE8} = {AA30F3DF-5218-4BF6-B042-7EC3E6570368}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {926B83E8-F708-443B-9384-3BC21EEF0044}

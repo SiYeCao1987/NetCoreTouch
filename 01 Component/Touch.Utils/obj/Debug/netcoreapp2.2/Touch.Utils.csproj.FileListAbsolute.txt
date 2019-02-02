@@ -14,3 +14,4 @@ E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.Ass
 E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.AssemblyInfo.cs
 E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.dll
 E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.pdb
+E:\NetCoreTouch\01 Component\Touch.Utils\obj\Debug\netcoreapp2.2\Touch.Utils.csprojAssemblyReference.cache
